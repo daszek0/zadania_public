@@ -1,0 +1,18 @@
+"Szkielet": {
+		"prefix": "szkielet",
+		"body": [
+			"// Jakub Daszkiewicz",
+			"// zadanie ",
+			"",
+			"#include <stdio.h>",
+			"",
+			"using namespace std;",
+			"",
+			"int main()",
+			"{",
+			"\t$0",
+			"\treturn 0;",
+			"}"
+		],
+		"description": "Podstawowy szkielet OI"
+	}

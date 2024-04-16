@@ -1,0 +1,48 @@
+/*
+ull fish_find(ull value)
+{
+    ull begin = 0, end = fish.size()-1, check;
+    while (begin <= end)
+    {
+        check = (begin+end)/2;
+        if (fish[check] > value)
+            end = check-1;
+        else if (fish[check] < value)
+            begin = check+1;
+        else
+            return check;
+    }
+    return 18446744073709551615;
+    
+    for (ull i=0; i<fish.size(); i++)
+    {
+        if (fish[i] == value)
+            return i;
+    }
+    
+}
+
+bool fish_exists(ull value)
+{
+    ull begin = 0, end = fish.size()-1, check;
+    while (begin <= end)
+    {
+        check = (begin+end)/2;
+        if (fish[check] > value)
+            end = check-1;
+        else if (fish[check] < value)
+            begin = check+1;
+        else
+            return true;
+    }
+    return false;
+    
+    for (ull i=0; i<fish.size(); i++)
+    {
+        if (fish[i] == value)
+            return true;
+    }
+    return false;
+    
+}
+*/

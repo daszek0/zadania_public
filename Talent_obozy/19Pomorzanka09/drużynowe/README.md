@@ -1,0 +1,1 @@
+Programy napisane w drużynie: Jakub Daszkiewicz, Franciszek Borys, Hubert Noch

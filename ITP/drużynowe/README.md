@@ -1,0 +1,1 @@
+Folder zawiera programy utworzone na skutek pracy zespołowej w drużynie Wild Algorithm Rangers w składzie: Jakub Daszkiewicz, Błażej Łytkowski, Maciej Mejer
